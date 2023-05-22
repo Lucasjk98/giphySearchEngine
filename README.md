@@ -16,7 +16,7 @@ This is the second project of the University of Santa Barbara bootcamp where I a
 -uses a custom css grid to display the images
 -ensures the site is responsive so that it looks good/works well on both desktop and mobile devices
 
-##Ideas for Future Improvement
+## Ideas for Future Improvement
 -Light & dark modes
 -Click to copy GIF functionality
 -Filter GIFs by rating(PG,PG-13 etc.)
