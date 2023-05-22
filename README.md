@@ -1,3 +1,3 @@
-# project-2-search
+# Bootcamp Project 2
 
 ###### Lucas Jimenez
