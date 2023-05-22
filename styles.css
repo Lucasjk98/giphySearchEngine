@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   font-size: x-large;
-}
+    }
 
 header {
   display: flex;
@@ -12,29 +12,38 @@ header {
   background-color: #4CAF50;
   color: white;
   padding: 20px;
-}
+    }
 
 nav {
   display: flex;
   justify-content: flex-end;
   align-items: center;
-}
-
+    }
+    
 nav ul {
   list-style: none;
   margin: 0;
   padding: 0;
   display: flex;
-}
+    }
     
 nav li {
   margin-left: 20px;
-}
-
+    }
+    
+a {
+  color: white;
+  text-decoration: none;
+    }
+    
+h1 {
+   text-align: center;
+    }
+    
 form {
   margin: 20px auto;
   text-align: center;
-}
+    }
     
 input[type="text"] {
   width: 60%;
@@ -43,7 +52,7 @@ input[type="text"] {
   border-radius: 4px;
   font-size: 16px;
   margin-right: 10px;
-}
+    }
 
 select {
   padding: 10px;
@@ -51,7 +60,7 @@ select {
   border-radius: 4px;
   font-size: 16px;
   margin-right: 10px;
-}
+    }
     
 input[type="submit"] {
   background-color: #4CAF50;
@@ -61,47 +70,47 @@ input[type="submit"] {
   border-radius: 4px;
   cursor: pointer;
   font-size: 16px;
-}
+    }
     
 #gif-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-}
-
+    }
+    
 .gif {
   margin: 10px;
   max-width: 300px;
-}
+    }
     
 .gif img {
   width: 100%;
   height: auto;
-}
+    }
 
-@media screen and (max-width: 350px) {
-  header {
-    flex-direction: column;
+    @media screen and (max-width: 350px) {
+header {
+flex-direction: column;
     align-items: center;
     text-align: center;
   }
   
-  nav {
+nav {
     margin-top: 10px;
   }
   
-  nav ul {
+nav ul {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
   
-  nav li {
+nav li {
     margin: 5px 0;
   }
   
-  .gif {
+.gif {
     width: 100%;
   }
 }
