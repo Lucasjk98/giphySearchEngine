@@ -17,7 +17,7 @@ This is the second project of the University of Santa Barbara bootcamp where I a
 -ensures the site is responsive so that it looks good/works well on both desktop and mobile devices
 
 ## Ideas for Future Improvement
--Light & dark modes
--Click to copy GIF functionality
--Filter GIFs by rating(PG,PG-13 etc.)
--Filter GIFs by language
+- Light & dark modes
+- Click to copy GIF functionality
+- Filter GIFs by rating(PG,PG-13 etc.)
+- Filter GIFs by language
