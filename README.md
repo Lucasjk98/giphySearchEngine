@@ -1,4 +1,4 @@
-# Bootcamp Project 2
+# Giphy Search Engine
 
 ###### Lucas Jimenez
 
